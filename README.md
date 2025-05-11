@@ -3,7 +3,7 @@
 ____
 ** Car Sales Analysis Report
 
-** This report give details about data of car sold from 2022 to 2023 in USA
+__ This report give details about data of car sold from 2022 to 2023 in USA
 ____
 ** Project Overview
 
@@ -13,19 +13,19 @@ ____
 
 --Data Source 
 
-** www.google.com
+ www.google.com
 
 ____
 ** Tools use
 
-** Power Bi
+ Power Bi
    1. For Creating Interrctive Visualizalion
    2. For Dashboard Creation
    3. For Visual that present Data insights in a friendly format
 ____
 Data Overview
+** The Dataset includes the following
 
-> The Dataset includes the following 
 >-Car Id : The unique identifier Car number 
 >- Customer Name : Indicate Difference customers that bought car
 >- Dealer-Name : identify dealer name by region
@@ -39,3 +39,5 @@ ____
 ** Data Visualization 
 
 [To view Power Bi Dashboard, click Here](https://ibb.co/DHzsL5Ph)
+
+** Dashboard Visuals
