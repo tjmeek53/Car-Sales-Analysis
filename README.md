@@ -41,3 +41,10 @@ ____
 [To view Power Bi Dashboard, click Here](https://ibb.co/DHzsL5Ph)
 
 ** Dashboard Visuals
+
+![Screenshot](https://github.com/user-attachments/assets/b77af28e-4706-4476-8d45-f28102c3c50c)
+
+
+
+
+
