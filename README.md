@@ -38,4 +38,4 @@ ____
 
 ** Data Visualization 
 
-[To view Dashboard, click Here](https://ibb.co/DHzsL5Ph)
+[To view Power Bi Dashboard, click Here](https://ibb.co/DHzsL5Ph)
