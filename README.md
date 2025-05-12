@@ -55,6 +55,11 @@ ____
 Select * from Car_dataset
 
 ```
+```sql
+
+Select customer_name from Car_dataset
+
+```
 
  
  
